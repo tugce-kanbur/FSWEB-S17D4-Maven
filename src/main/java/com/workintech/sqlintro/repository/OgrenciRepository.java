@@ -58,4 +58,5 @@ public interface OgrenciRepository extends JpaRepository<Ogrenci, Long> {
     @Query(value = QUESTION_10, nativeQuery = true)
     List<Ogrenci> findStudentsSecondLetterOfN();
 
+
 }

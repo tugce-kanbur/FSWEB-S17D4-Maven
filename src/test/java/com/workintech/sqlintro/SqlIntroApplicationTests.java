@@ -1,5 +1,6 @@
 package com.workintech.sqlintro;
 
+
 import com.workintech.sqlintro.repository.OgrenciRepository;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

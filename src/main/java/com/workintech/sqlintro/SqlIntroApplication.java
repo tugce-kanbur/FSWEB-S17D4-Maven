@@ -10,4 +10,5 @@ public class SqlIntroApplication {
 		SpringApplication.run(SqlIntroApplication.class, args);
 	}
 
+
 }
